@@ -35,4 +35,6 @@ Explanatory variables: the explanatory variables concern the entire reviewText e
 
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/50669298/58752676-7d6fc480-84b3-11e9-9584-a6914da9f136.png">
 
+The visualization of the data (the two graphs in Figure 2) shows that more than half of the critics have a rating equivalent to 5 stars or 60%. The proportion of ratings corresponding to 4 stars was 22.4%; the proportion corresponding to 3 stars was 9%. The lowest scores of 2 and 1 stars represented 4% each. We then grouped the five star levels into two classes. Class 0 had scores from 1 to 2 stars. Class 1 has been assigned scores equivalent to 3, 4 and 5 stars. This is representing in Figure 2. On graph 2 it can be seen that class 1 (overall ≥3) alone represents about 3/4 of the opinions, which presents an imbalance in both classes.
+
 ![im2](https://user-images.githubusercontent.com/50669298/58752778-10f5c500-84b5-11e9-8c3d-a61a2333023b.png)
