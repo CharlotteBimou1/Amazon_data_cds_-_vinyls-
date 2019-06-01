@@ -9,3 +9,29 @@ To do this work, we will move towards supervised automatic learning techniques s
 # Materials and Methods
 
 In this section, we will detail all the methods used to carry out this project. First, the database used for this project will be discussed in a third step. We would define and explain how binary classification and multi-class classification work in a second step. In a third step, we will define and explain the three classifiers and end with a brief explanation of the different metrics.
+
+
+# A) Project database
+
+We used a file containing consumer reviews for products related to CDs ("CDs and vinyl") sold by Amazon. The data in this file, like so many others, was collected by Julian McAuley, a researcher at Université́ in California, and is available on the following website: http://jmcauley.ucsd.edu/data/amazon/. The file we extracted represents a subset of the data in which all items and users had at least 5 ratings represented by 5 stars. The variables in the database are either quantitative, qualitative or textual. They are listed below.
+
+- reviewerID: the client ID;
+- asin(Amazon Standard Identification Number):the identifier of the product under examination; - reviewerName: the name of the examiner ;
+- helpful: Note of the usefulness of the opinion;
+- reviewText: the text of the review corresponding to the reviewer's comment;
+- overall: the product's rating, on five stars;
+- summary: the summary of the evaluation text;
+- unixReviewTime: time of revision;
+- reviewTime: the time of the evaluation in months/days/year.
+
+An extract from the database is presented in Table 1 below. The CDs and Vinyl database consisted of approximately 1,097,592 customer reviews.
+
+# Analysis variables
+
+Predictive variable or response variable: the variable to be predicted in this study is the score
+which here corresponds to "overall".
+
+Explanatory variables: the explanatory variables concern the entire reviewText evaluation test, which could be correlated with the score and the summary of the summary evaluation test. We will compare the models from these two tests. In this project, the variables considered necessary and relevant were the overall evaluation score of the opinion, the review text of the evaluation (reviewText), and the summary of the text (see Table 1).
+
+
+
