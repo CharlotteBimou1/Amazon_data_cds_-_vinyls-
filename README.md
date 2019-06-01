@@ -35,3 +35,4 @@ Explanatory variables: the explanatory variables concern the entire reviewText e
 
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/50669298/58752676-7d6fc480-84b3-11e9-9584-a6914da9f136.png">
 
+![im2](https://user-images.githubusercontent.com/50669298/58752778-10f5c500-84b5-11e9-8c3d-a61a2333023b.png)
