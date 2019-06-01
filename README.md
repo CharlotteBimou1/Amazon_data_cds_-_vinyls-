@@ -33,5 +33,5 @@ which here corresponds to "overall".
 
 Explanatory variables: the explanatory variables concern the entire reviewText evaluation test, which could be correlated with the score and the summary of the summary evaluation test. We will compare the models from these two tests. In this project, the variables considered necessary and relevant were the overall evaluation score of the opinion, the review text of the evaluation (reviewText), and the summary of the text (see Table 1).
 
-
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/50669298/58752676-7d6fc480-84b3-11e9-9584-a6914da9f136.png">
 
